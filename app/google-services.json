@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922638501744",
+    "project_id": "healthtrack-2024",
+    "storage_bucket": "healthtrack-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922638501744:android:24cbaaf1bfdd21c692f1b5",
+        "android_client_info": {
+          "package_name": "com.plcoding.composegooglesignincleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922638501744-621q7u3lumsjtgknvsjkuvta0i7fe3g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plcoding.composegooglesignincleanarchitecture",
+            "certificate_hash": "564eb6847da72ad9e5fe5db3a6e153d8cf946ee8"
+          }
+        },
+        {
+          "client_id": "922638501744-286rvbllsdste8k5rpuh6o523ei58lv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzhO9gCRsSiDy4vs2wXk8Octuk36b9uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922638501744-286rvbllsdste8k5rpuh6o523ei58lv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
